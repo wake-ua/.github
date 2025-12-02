@@ -10,7 +10,7 @@
 
 ---
 
-# <img src="https://api.iconify.design/mdi/search.svg?color=%23ffffff" width="28" style="margin-right:6px;"> Research in ***Web and Knowledge***
+# <img src="https://api.iconify.design/mdi/search.svg?color=%23ffffff" width="28" style="margin-right:6px;"> Research in **_Web and Knowledge_**
 
 At **Web and Knowledge (WaKe)**, we work to make the web a **smarter, more adaptive, and human-centered environment**. We investigate how **web technologies** and **knowledge management** can be integrated to create digital solutions capable of understanding and better responding to users' needs.
 
@@ -21,7 +21,7 @@ Since **2012**, under the direction of **Irene Garrigós Fernández**, we have d
 
 ---
 
-# <img src="https://api.iconify.design/mdi/flask-outline.svg?color=%23ffffff"  width="28" style="margin-right:6px;"> Main ***Research Areas***
+# <img src="https://api.iconify.design/mdi/flask-outline.svg?color=%23ffffff"  width="28" style="margin-right:6px;"> Main **_Research Areas_**
 
 Below is a summary of the main areas in which we develop our research work:
 
@@ -37,39 +37,38 @@ Below is a summary of the main areas in which we develop our research work:
 - <img src="https://api.iconify.design/ph/brain.svg?color=%23ffffff" style="margin-right:6px;"> **Web Intelligence and Data Quality**  
   Solutions to improve quality, traceability and interpretation of knowledge in Web environments.
 
-
-<!-- 
+<!--
 ## 🧩 Research Lines
 ### **1. Knowledge-Based Software Engineering**
 We design and evaluate methods that incorporate different forms of knowledge into the development of web applications. This includes:
-- Web mashups  
-- Rich Internet Applications (RIAs)  
-- Knowledge-driven development processes and architectures  
+- Web mashups
+- Rich Internet Applications (RIAs)
+- Knowledge-driven development processes and architectures
 
 ### **2. User-Centered Methods for Knowledge Discovery**
 We develop approaches that empower users to explore, generate, and understand knowledge derived from heterogeneous structured data:
-- Data mining techniques  
-- Knowledge Discovery processes  
-- User-centered interaction methods and interfaces  
+- Data mining techniques
+- Knowledge Discovery processes
+- User-centered interaction methods and interfaces
 -->
 
 ---
 
-# <img src="https://api.iconify.design/mdi/lightbulb-outline.svg?color=%23ffffff" width="28" style="margin-right:6px;"> Current ***Projects***
+# <img src="https://api.iconify.design/mdi/lightbulb-outline.svg?color=%23ffffff" width="28" style="margin-right:6px;"> Current **_Projects_**
 
 We are currently developing the following projects:
 
 - **[HELEADE](https://heleade.iuii.ua.es/)** — TSI-100121-2024-24  
-  Funded by the *Ministry of Digital Transformation and Public Function* and the European Union NextGenerationEU / PRTR  
+  Funded by the _Ministry of Digital Transformation and Public Function_ and the European Union NextGenerationEU / PRTR
 
 - **[CLIO](https://clio.iuii.ua.es/)** — TSI-100130-2024-69  
-  Funded by the *Ministry of Digital Transformation and Public Function* and the European Union NextGenerationEU / PRTR  
+  Funded by the _Ministry of Digital Transformation and Public Function_ and the European Union NextGenerationEU / PRTR
 
-> *(More projects will be added as they become publicly accessible.)*
+> _(More projects will be added as they become publicly accessible.)_
 
 ---
 
-<!-- 
+<!--
 ## 🧩 Research Lines
 - **HELEADE** TSI-100121-2024-24, founded by el Ministerio de Transformación Digital y de la Función Pública y por la Unión Europea Next GenerationEU/ PRTR
   https://heleade.iuii.ua.es/
@@ -79,15 +78,15 @@ We are currently developing the following projects:
 *(More projects will be added as they become publicly available.)*
 -->
 
-<!-- 
+<!--
 ## 🎯 Research Areas
 
-- Knowledge-Based Software Engineering  
-- Web Applications  
-- Web Mashups  
-- Rich Internet Applications (RIAs)  
-- Knowledge Discovery  
-- Data Mining  
+- Knowledge-Based Software Engineering
+- Web Applications
+- Web Mashups
+- Rich Internet Applications (RIAs)
+- Knowledge Discovery
+- Data Mining
 - User-Centered Methods
 - Search engines
 - Data space
@@ -102,7 +101,7 @@ WaKe is composed of researchers specialized in software engineering, web technol
 ---
 -->
 
-# <img src="https://api.iconify.design/mdi/stars-outline.svg?color=%23ffffff" width="28" style="margin-right:6px;"> *Collaboration Opportunities*
+# <img src="https://api.iconify.design/mdi/stars-outline.svg?color=%23ffffff" width="28" style="margin-right:6px;"> _Collaboration Opportunities_
 
 We welcome collaboration with research groups, public institutions, and industry partners interested in:
 
@@ -113,7 +112,7 @@ We welcome collaboration with research groups, public institutions, and industry
 
 For inquiries or collaboration proposals, you can reach us at:
 
-- <img src="https://api.iconify.design/mdi/email-outline.svg?color=%23ffffff" style="margin-right:6px;"> **Email:** wake@dlsi.ua.es  
+- <img src="https://api.iconify.design/mdi/email-outline.svg?color=%23ffffff" style="margin-right:6px;"> **Email:** wake@dlsi.ua.es
 - <img src="https://api.iconify.design/mdi/web.svg?color=%23ffffff" style="margin-right:6px;"> **Website:** https://wake.dlsi.ua.es
 
 ---

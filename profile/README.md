@@ -12,9 +12,9 @@
 
 # <img src="https://api.iconify.design/mdi/search.svg?color=%23ffffff" width="28" style="margin-right:6px;"> Research in **_Web and Knowledge_**
 
-At **Web and Knowledge (WaKe)**, we work to make the web a **smarter, more adaptive, and human-centered environment**. We investigate how **web technologies** and **knowledge management** can be integrated to create digital solutions capable of understanding and better responding to users' needs.
+At **Web and Knowledge (WaKe)**, we work to make the web a **smarter, more adaptive, and human-centered environment**. We investigate how **web technologies** and **knowledge management** can be integrated to create digital solutions capable of understanding and better responding to user needs.
 
-Since **2012**, under the direction of **Irene Garrigós Fernández**, we have developed **knowledge-based methods and tools** that enhance the design, personalization, and intelligence of web applications. Our research areas include **data mining**, **Web Intelligence**, and **semantic data integration**, aimed at transforming complex information into useful knowledge.
+Since **2012**, under the direction of **Irene Garrigós Fernández**, we have developed **knowledge-based methods and tools** that enhance the design, personalization, and intelligence of web applications. Our research areas include **data mining**, **web intelligence**, and **semantic data integration**, aimed at transforming complex information into useful knowledge.
 
 <!-- The **WaKe Research Group (Web and Knowledge Engineering)** focuses on advancing software engineering methods and knowledge-driven techniques for building intelligent web systems and enabling user-centered knowledge discovery. Our work integrates web technologies, data analysis, and knowledge engineering to develop innovative solutions with real impact.
 -->

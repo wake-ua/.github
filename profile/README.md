@@ -1,5 +1,7 @@
 <div align="center" width="100%">
-  <img src="./gradient_header.svg" width="100%" alt="Web and Knowledge (WaKe)">
+  <a href="https://wake.dlsi.ua.es" target="_blank">
+    <img src="./gradient_header.svg" width="100%" alt="Web and Knowledge (WaKe)">
+  </a>
   <p>
     <strong>Research Group in Web Technologies, Software Engineering, and Knowledge Management</strong><br>
     <em>- University of Alicante -</em>

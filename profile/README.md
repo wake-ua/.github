@@ -8,7 +8,7 @@
 
 ---
 
-# <img src="https://api.iconify.design/mdi/search.svg?color=%23ffffff" width="28" style="vertical-align:middle; margin-right:6px;"> Research in ***Web and Knowledge***
+# <img src="https://api.iconify.design/mdi/search.svg?color=%23ffffff" width="28" style="margin-right:6px;"> Research in ***Web and Knowledge***
 
 At **Web and Knowledge (WaKe)**, we work to make the web a **smarter, more adaptive, and human-centered environment**. We investigate how **web technologies** and **knowledge management** can be integrated to create digital solutions capable of understanding and better responding to users' needs.
 
@@ -19,20 +19,20 @@ Since **2012**, under the direction of **Irene Garrigós Fernández**, we have d
 
 ---
 
-# <img src="https://api.iconify.design/mdi/flask-outline.svg?color=%23ffffff" width="28" style="vertical-align:middle; margin-right:6px;"> Main ***Research Areas***
+# <img src="https://api.iconify.design/mdi/flask-outline.svg?color=%23ffffff"  width="28" style="margin-right:6px;"> Main ***Research Areas***
 
 Below is a summary of the main areas in which we develop our research work:
 
-- <img src="https://api.iconify.design/ph/globe-hemisphere-west.svg?color=%23ffffff" width="24" style="vertical-align:middle; margin-right:6px;"> **Knowledge-Based Web Engineering**  
+- <img src="https://api.iconify.design/ph/globe-hemisphere-west.svg?color=%23ffffff" style="margin-right:6px;"> **Knowledge-Based Web Engineering**  
   Methods and models for designing intelligent Web applications based on knowledge and user personalization.
 
-- <img src="https://api.iconify.design/ph/magnifying-glass.svg?color=%23ffffff" width="24" style="vertical-align:middle; margin-right:6px;"> **Knowledge Discovery**  
+- <img src="https://api.iconify.design/ph/magnifying-glass.svg?color=%23ffffff" style="margin-right:6px;"> **Knowledge Discovery**  
   Analysis and mining techniques aimed at extracting value from heterogeneous structured data.
 
-- <img src="https://api.iconify.design/ph/gear-six.svg?color=%23ffffff" width="24" style="vertical-align:middle; margin-right:6px;"> **Advanced Data Integration**  
+- <img src="https://api.iconify.design/ph/gear-six.svg?color=%23ffffff" style="margin-right:6px;"> **Advanced Data Integration**  
   Methods for combining and managing complex data: relational, NoSQL, Linked Data, Open Data, and Big Data.
 
-- <img src="https://api.iconify.design/ph/brain.svg?color=%23ffffff" width="24" style="vertical-align:middle; margin-right:6px;"> **Web Intelligence and Data Quality**  
+- <img src="https://api.iconify.design/ph/brain.svg?color=%23ffffff" style="margin-right:6px;"> **Web Intelligence and Data Quality**  
   Solutions to improve quality, traceability and interpretation of knowledge in Web environments.
 
 
@@ -53,7 +53,7 @@ We develop approaches that empower users to explore, generate, and understand kn
 
 ---
 
-# <img src="https://api.iconify.design/mdi/lightbulb-outline.svg?color=%23ffffff" width="28" style="vertical-align:middle; margin-right:6px;"> Current ***Projects***
+# <img src="https://api.iconify.design/mdi/lightbulb-outline.svg?color=%23ffffff" width="28" style="margin-right:6px;"> Current ***Projects***
 
 We are currently developing the following projects:
 
@@ -100,7 +100,7 @@ WaKe is composed of researchers specialized in software engineering, web technol
 ---
 -->
 
-# <img src="https://api.iconify.design/mdi/stars-outline.svg?color=%23ffffff" width="28" style="vertical-align:middle; margin-right:6px;"> *Collaboration Opportunities*
+# <img src="https://api.iconify.design/mdi/stars-outline.svg?color=%23ffffff" width="28" style="margin-right:6px;"> *Collaboration Opportunities*
 
 We welcome collaboration with research groups, public institutions, and industry partners interested in:
 
@@ -111,7 +111,7 @@ We welcome collaboration with research groups, public institutions, and industry
 
 For inquiries or collaboration proposals, you can reach us at:
 
-- <img src="https://api.iconify.design/mdi/email-outline.svg?color=%23ffffff" width="20" style="vertical-align:middle; margin-right:6px;"> **Email:** wake@dlsi.ua.es  
-- <img src="https://api.iconify.design/mdi/web.svg?color=%23ffffff" width="20" style="vertical-align:middle; margin-right:6px;"> **Website:** https://wake.dlsi.ua.es
+- <img src="https://api.iconify.design/mdi/email-outline.svg?color=%23ffffff" style="margin-right:6px;"> **Email:** wake@dlsi.ua.es  
+- <img src="https://api.iconify.design/mdi/web.svg?color=%23ffffff" style="margin-right:6px;"> **Website:** https://wake.dlsi.ua.es
 
 ---

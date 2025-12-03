@@ -14,7 +14,7 @@
     </mask>
   </defs>
 
-  <path fill="url(#wakeGradient)" opacity="0.45" mask="url(#logoMask)">
+  <path fill="url(#wakeGradient)" opacity="0.55" mask="url(#logoMask)">
     <animate attributeName="d" dur="18s" repeatCount="indefinite" values="
       M0 0 L0 273 Q213 302 427 273 T854 302 L854 0 Z;
       M0 0 L0 288 Q213 306 427 291 T854 272 L854 0 Z;
@@ -22,7 +22,7 @@
       M0 0 L0 273 Q213 302 427 273 T854 302 L854 0 Z" />
   </path>
 
-  <path fill="url(#wakeGradient)" opacity="0.35" mask="url(#logoMask)">
+  <path fill="url(#wakeGradient)" opacity="0.45" mask="url(#logoMask)">
     <animate attributeName="d" dur="18s" repeatCount="indefinite" begin="-9s" values="
       M0 0 L0 283 Q213 314 427 291 T854 311 L854 0 Z;
       M0 0 L0 297 Q213 269 427 269 T854 292 L854 0 Z;
@@ -30,3 +30,4 @@
       M0 0 L0 283 Q213 314 427 291 T854 311 L854 0 Z" />
   </path>
 </svg>
+

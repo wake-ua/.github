@@ -10,51 +10,34 @@
 
 ---
 
-# <img src="https://api.iconify.design/mdi/search.svg?color=%23657E86" width="28" style="margin-right:6px;"> Research in **_Web and Knowledge_**
+# <picture><source srcset="https://api.iconify.design/mdi/search.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="28" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/search.svg?color=%230D1117" width="28" style="margin-right:6px;"/></picture> Research in **_Web and Knowledge_**
+
 
 At **Web and Knowledge (WaKe)**, we work to make the web a **smarter, more adaptive, and human-centered environment**. We investigate how **web technologies** and **knowledge management** can be integrated to create digital solutions capable of understanding and better responding to user needs.
 
 Since **2012**, under the direction of **Irene Garrigós Fernández**, we have developed **knowledge-based methods and tools** that enhance the design, personalization, and intelligence of web applications. Our research areas include **data mining**, **web intelligence**, and **semantic data integration**, aimed at transforming complex information into useful knowledge.
 
-<!-- The **WaKe Research Group (Web and Knowledge Engineering)** focuses on advancing software engineering methods and knowledge-driven techniques for building intelligent web systems and enabling user-centered knowledge discovery. Our work integrates web technologies, data analysis, and knowledge engineering to develop innovative solutions with real impact.
--->
-
 ---
 
-# <img src="https://api.iconify.design/mdi/flask-outline.svg?color=%23657E86"  width="28" style="margin-right:6px;"> Main **_Research Areas_**
+# <picture><source srcset="https://api.iconify.design/mdi/flask-outline.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="28" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/flask-outline.svg?color=%230D1117" width="28" style="margin-right:6px;"/></picture> Main **_Research Areas_**
 
 Below is a summary of the main areas in which we develop our research work:
 
-- <img src="https://api.iconify.design/ph/globe-hemisphere-west.svg?color=%23657E86" style="margin-right:6px;"> **Knowledge-Based Web Engineering**  
+- <picture><source srcset="https://api.iconify.design/ph/globe-hemisphere-west.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" style="margin-right:6px;"/><img src="https://api.iconify.design/ph/globe-hemisphere-west.svg?color=%230D1117" style="margin-right:6px;"/></picture> **Knowledge-Based Web Engineering**  
   Methods and models for designing intelligent Web applications based on knowledge and user personalization.
 
-- <img src="https://api.iconify.design/ph/magnifying-glass.svg?color=%23657E86" style="margin-right:6px;"> **Knowledge Discovery**  
+- <picture><source srcset="https://api.iconify.design/ph/magnifying-glass.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" style="margin-right:6px;"/><img src="https://api.iconify.design/ph/magnifying-glass.svg?color=%230D1117" style="margin-right:6px;"/></picture> **Knowledge Discovery**  
   Analysis and mining techniques aimed at extracting value from heterogeneous structured data.
 
-- <img src="https://api.iconify.design/ph/gear-six.svg?color=%23657E86" style="margin-right:6px;"> **Advanced Data Integration**  
+- <picture><source srcset="https://api.iconify.design/ph/gear-six.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" style="margin-right:6px;"/><img src="https://api.iconify.design/ph/gear-six.svg?color=%230D1117" style="margin-right:6px;"/></picture> **Advanced Data Integration**  
   Methods for combining and managing complex data: relational, NoSQL, Linked Data, Open Data, and Big Data.
 
-- <img src="https://api.iconify.design/ph/brain.svg?color=%23657E86" style="margin-right:6px;"> **Web Intelligence and Data Quality**  
+- <picture><source srcset="https://api.iconify.design/ph/brain.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" style="margin-right:6px;"/><img src="https://api.iconify.design/ph/brain.svg?color=%230D1117" style="margin-right:6px;"/></picture> **Web Intelligence and Data Quality**  
   Solutions to improve quality, traceability and interpretation of knowledge in Web environments.
-
-<!--
-## 🧩 Research Lines
-### **1. Knowledge-Based Software Engineering**
-We design and evaluate methods that incorporate different forms of knowledge into the development of web applications. This includes:
-- Web mashups
-- Rich Internet Applications (RIAs)
-- Knowledge-driven development processes and architectures
-
-### **2. User-Centered Methods for Knowledge Discovery**
-We develop approaches that empower users to explore, generate, and understand knowledge derived from heterogeneous structured data:
-- Data mining techniques
-- Knowledge Discovery processes
-- User-centered interaction methods and interfaces
--->
 
 ---
 
-# <img src="https://api.iconify.design/mdi/lightbulb-outline.svg?color=%23657E86" width="28" style="margin-right:6px;"> Current **_Projects_**
+# <picture><source srcset="https://api.iconify.design/mdi/lightbulb-outline.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="28" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/lightbulb-outline.svg?color=%230D1117" width="28" style="margin-right:6px;"/></picture> Current **_Projects_**
 
 We are currently developing the following projects:
 
@@ -68,40 +51,7 @@ We are currently developing the following projects:
 
 ---
 
-<!--
-## 🧩 Research Lines
-- **HELEADE** TSI-100121-2024-24, founded by el Ministerio de Transformación Digital y de la Función Pública y por la Unión Europea Next GenerationEU/ PRTR
-  https://heleade.iuii.ua.es/
-- **CLIO** TSI-100130-2024-69, founded by el Ministerio de Transformación Digital y de la Función Pública y por la Unión Europea Next GenerationEU/ PRTR
-  https://heleade.iuii.ua.es/
-
-*(More projects will be added as they become publicly available.)*
--->
-
-<!--
-## 🎯 Research Areas
-
-- Knowledge-Based Software Engineering
-- Web Applications
-- Web Mashups
-- Rich Internet Applications (RIAs)
-- Knowledge Discovery
-- Data Mining
-- User-Centered Methods
-- Search engines
-- Data space
-- Metadata augmentation
-
----
-
-## 🧑‍🔬 About Us
-
-WaKe is composed of researchers specialized in software engineering, web technologies, data science, and user experience. Our approach combines scientific rigor with practical experimentation and technology transfer.
-
----
--->
-
-# <img src="https://api.iconify.design/mdi/stars-outline.svg?color=%23657E86" width="28" style="margin-right:6px;"> _Collaboration Opportunities_
+# <picture><source srcset="https://api.iconify.design/mdi/stars-outline.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="28" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/stars-outline.svg?color=%230D1117" width="28" style="margin-right:6px;"/></picture> **_Collaboration_** Opportunities
 
 We welcome collaboration with research groups, public institutions, and industry partners interested in:
 
@@ -112,7 +62,7 @@ We welcome collaboration with research groups, public institutions, and industry
 
 For inquiries or collaboration proposals, you can reach us at:
 
-- <img src="https://api.iconify.design/mdi/email-outline.svg?color=%23657E86" style="margin-right:6px;"> **Email:** wake@dlsi.ua.es
-- <img src="https://api.iconify.design/mdi/web.svg?color=%23657E86" style="margin-right:6px;"> **Website:** https://wake.dlsi.ua.es
+- <picture><source srcset="https://api.iconify.design/mdi/email-outline.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/email-outline.svg?color=%230D1117" style="margin-right:6px;"/></picture> **Email:** wake@dlsi.ua.es
+- <picture><source srcset="https://api.iconify.design/mdi/web.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/web.svg?color=%230D1117" style="margin-right:6px;"/></picture> **Website:** https://wake.dlsi.ua.es
 
 ---

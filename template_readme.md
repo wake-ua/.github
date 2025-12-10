@@ -1,10 +1,10 @@
-# 📚 *[Project Title/Component]*
+# *[Project Title/Component]*
 
 > Briefly describe the main purpose of your research project.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - State the main objective of the project.  
 - List secondary or specific goals.  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🏛️ Funding Information
+## Funding Information
 
 This research project is supported by:
 
@@ -36,7 +36,7 @@ Provide a brief description of the main technologies used.
 - EDC Connector
 ---
 
-## ⚙️ Installation and Usage
+## Installation and Usage
 
 1. Clone the repository
 2. Execute ...
@@ -44,7 +44,7 @@ Provide a brief description of the main technologies used.
 
 ---
 
-## 👩‍💻 Authors / Contributors
+## Authors / Contributors
 
 - **Collaborators:** List names.
 - [Full name] – [@username](https://github.com/username)
@@ -52,13 +52,13 @@ Provide a brief description of the main technologies used.
 
 ---
 
-## 📄 License
+## License
 
 This project is distributed under the [MIT License](LICENSE) (or any other applicable license).
 
 ---
 
-## 📚 References(if apply)
+## References(if apply)
 
 List relevant sources, papers, or previous works that support this research. You can include them in APA or BibTeX format.
 

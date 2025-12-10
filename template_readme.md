@@ -68,5 +68,5 @@ List relevant sources, papers, or previous works that support this research. You
 
 For questions, collaborations, or further information:
 
-📧 [email@institution.edu](mailto:email@institution.edu)  
-🌐 [Research group website or institutional page]
+📧 [wake@dlsi.ua.es](mailto:wake@dlsi.ua.es)  
+🌐 [Wake Research group](https://wake.dlsi.ua.es/)

@@ -17,10 +17,10 @@
     <li><a href="#license">License</a></li>
     <li><a href="#funding-information">Funding Information</a></li>
     <li>
-      <a href="#references-if-applicable">References</a>
+      <a href="#references">References</a>
       <ul>
-        <li><a href="#articles-template">Articles (Template)</a></li>
-        <li><a href="#conferences-template">Conferences (Template)</a></li>
+        <li><a href="#articles">Articles (Template)</a></li>
+        <li><a href="#conferences">Conferences (Template)</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -28,8 +28,15 @@
 </details>
 
 > **Note:**  
-> Every section heading includes a manual `<span id="..."></span>` anchor so that all Table of Contents links work even when headings contain icons or HTML.  
-> GitHub will always respect custom IDs.
+> Every section heading in this template includes a manual `<span id="..."></span>` anchor placed directly above the heading.  
+> This ensures that all Table of Contents (TOC) links work reliably, even when headings contain HTML elements such as icons, `<picture>`, or inline styling.  
+>
+> **Example:**  
+> ```md
+> <span id="objectives"></span>
+> # <picture>...</picture> Objectives
+> ```
+> In this case, TOC links should reference `#objectives`.
 
 ---
 <span id="objectives"></span>
@@ -103,18 +110,18 @@ This research project is supported by:
 
 ---
 
-<span id="references-if-applicable"></span>
+<span id="references"></span>
 ## <picture><source srcset="https://api.iconify.design/mdi/book-open-variant.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/book-open-variant.svg?color=%230D1117" width="23" style="margin-right:6px;"/></picture> References (if applicable)
 
 List relevant sources, papers, or previous works that support this research. You can include them in APA or BibTeX format.
 
-<span id="articles-template"></span>
+<span id="articles"></span>
 ### - Articles (Template)
 - **Surname, A., Surname, B., Surname, C., & Surname, D. (Year).**  
   *Title of the article.*  
   Journal / Publisher.
 
-<span id="conferences-template"></span>
+<span id="conferences"></span>
 ### - Conferences (Template)
 - **Surname, A., Surname, B., Surname, C., Surname, D., & Surname, E. (Year).**  
   *Title of the conference paper.*  

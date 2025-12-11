@@ -19,8 +19,8 @@
     <li>
       <a href="#references-if-applicable">References</a>
       <ul>
-        <li><a href="#--articles-template">Articles (Template)</a></li>
-        <li><a href="#--conferences-template">Conferences (Template)</a></li>
+        <li><a href="#articles-template">Articles (Template)</a></li>
+        <li><a href="#conferences-template">Conferences (Template)</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -28,13 +28,12 @@
 </details>
 
 > **Note:**  
-> Ensure that every link in the Table of Contents matches the ID generated from the plain text of each heading.  
-> GitHub ignores HTML elements inside a heading (e.g., `<span>`, `<picture>`, icons) and derives the ID only from the visible text.  
-> **Example:** `# <span>…</span> Objectives` → `#objectives`
+> Every section heading includes a manual `<span id="..."></span>` anchor so that all Table of Contents links work even when headings contain icons or HTML.  
+> GitHub will always respect custom IDs.
 
 ---
-
-# <span style="display:inline-flex;align-items:center;gap:6px;"><picture><source srcset="https://api.iconify.design/mdi/target-arrow.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23"/><img src="https://api.iconify.design/mdi/target-arrow.svg?color=%230D1117" width="23"/></picture> Objectives</span>
+<span id="objectives"></span>
+# <picture><source srcset="https://api.iconify.design/mdi/target-arrow.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/target-arrow.svg?color=%230D1117" width="23" style="margin-right:6px;"/></picture> Objectives
 
 - State the main objective of the project.  
 - List secondary or specific goals.  
@@ -42,7 +41,8 @@
 
 ---
 
-# <span style="display:inline-flex;align-items:center;gap:6px;"><picture><source srcset="https://api.iconify.design/mdi/cog.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23"/><img src="https://api.iconify.design/mdi/cog.svg?color=%230D1117" width="23"/></picture> Technology</span>
+<span id="technology"></span>
+# <picture><source srcset="https://api.iconify.design/mdi/cog.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/cog.svg?color=%230D1117" width="23" style="margin-right:6px;"/></picture> Technology
 
 Provide a brief description of the main technologies used.
 
@@ -53,7 +53,8 @@ Provide a brief description of the main technologies used.
 
 ---
 
-## <span style="display:inline-flex;align-items:center;gap:6px;"><picture><source srcset="https://api.iconify.design/mdi/download.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23"/><img src="https://api.iconify.design/mdi/download.svg?color=%230D1117" width="23"/></picture> Installation and Usage</span>
+<span id="installation-and-usage"></span>
+## <span style="display:inline-flex;align-items:center;gap:6px;"><picture><source srcset="https://api.iconify.design/mdi/download.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/download.svg?color=%230D1117" width="23" style="margin-right:6px;"/></picture> Installation and Usage</span>
 
 Instructions for deploying or executing the components included in this repository.
 
@@ -69,6 +70,7 @@ Instructions for deploying or executing the components included in this reposito
 
 ---
 
+<span id="authors--contributors"></span>
 ## <picture><source srcset="https://api.iconify.design/mdi/account-group.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/account-group.svg?color=%230D1117" width="23" style="margin-right:6px;"/></picture> Authors / Contributors
 
 - [Full name] — [@username](https://github.com/username)  
@@ -76,12 +78,14 @@ Instructions for deploying or executing the components included in this reposito
 
 ---
 
+<span id="license"></span>
 ## <picture><source srcset="https://api.iconify.design/mdi/license.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/license.svg?color=%230D1117" width="23" style="margin-right:6px;"/></picture> License
 
 This project is distributed under the [MIT License](LICENSE) (or any other applicable license).
 
 ---
 
+<span id="funding-information"></span>
 ## <picture><source srcset="https://api.iconify.design/mdi/hand-coin-outline.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/hand-coin-outline.svg?color=%230D1117" width="23" style="margin-right:6px;"/></picture> Funding Information
 
 This research project is supported by:
@@ -99,17 +103,19 @@ This research project is supported by:
 
 ---
 
+<span id="references-if-applicable"></span>
 ## <picture><source srcset="https://api.iconify.design/mdi/book-open-variant.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/book-open-variant.svg?color=%230D1117" width="23" style="margin-right:6px;"/></picture> References (if applicable)
 
 List relevant sources, papers, or previous works that support this research. You can include them in APA or BibTeX format.
 
+<span id="articles-template"></span>
 ### - Articles (Template)
 - **Surname, A., Surname, B., Surname, C., & Surname, D. (Year).**  
   *Title of the article.*  
   Journal / Publisher.
 
+<span id="conferences-template"></span>
 ### - Conferences (Template)
-
 - **Surname, A., Surname, B., Surname, C., Surname, D., & Surname, E. (Year).**  
   *Title of the conference paper.*  
   In *Name of Conference* (pp. xx–xx).  
@@ -117,6 +123,7 @@ List relevant sources, papers, or previous works that support this research. You
 
 ---
 
+<span id="contact"></span>
 ## <picture><source srcset="https://api.iconify.design/mdi/stars-outline.svg?color=%23ffffff" media="(prefers-color-scheme: dark)" width="23" style="margin-right:6px;"/><img src="https://api.iconify.design/mdi/stars-outline.svg?color=%230D1117" width="23" style="margin-right:6px;"/></picture> Contact
 
 For questions, collaborations, or further information:
